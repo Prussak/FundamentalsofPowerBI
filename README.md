@@ -1,2 +1,2 @@
 # FundamentalsofPowerBI
-My first Power Bi project 
+My first Power BI project 
